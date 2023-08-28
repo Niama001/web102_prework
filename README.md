@@ -26,14 +26,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src="[https://giphy.com/embed/6L83OgezcBIAmlzMzH](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW15cHNrbW44dXlrcGM0czhjMTFxeWhudzE3N2NhMXNjcnYwczd4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6L83OgezcBIAmlzMzH/giphy.gif)" title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src=" https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW15cHNrbW44dXlrcGM0czhjMTFxeWhudzE3N2NhMXNjcnYwczd4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6L83OgezcBIAmlzMzH/giphy.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
 
